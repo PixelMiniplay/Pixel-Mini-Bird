@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Bird",
+  "description": "A polished, beautifully styled Flappy Bird game with multiple difficulty levels, high score tracking, customizable bird skins, and a smooth high-framerate HTML5 canvas engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
